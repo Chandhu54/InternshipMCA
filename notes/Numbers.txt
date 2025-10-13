@@ -1,0 +1,20 @@
+//Numbers:
+let length = 16;
+let width = 7.5;
+
+//strings: 
+let color = "yellow;
+let lastName = "Johnson";
+
+//Booleans:
+ let x = true;
+ let y = false;
+
+//objects:
+const person = { firstName:"John",lastName:"Doe"}
+
+//Array Objects:
+const cars = [ "Saab", "volvo","BMW"]
+
+//date objects:
+const date = new date("2022-10-23");
